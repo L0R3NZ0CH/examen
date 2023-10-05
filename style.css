@@ -1,0 +1,23 @@
+*{ 
+    padding: 0%;
+    margin: 0%;
+}
+
+nav a {
+    display: flex;
+    text-align: center;
+}
+.container  {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.container p {
+    font-weight: bold;
+}
+footer {
+    background-color: black;
+}
+footer h2 {
+    text-decoration-colors: white;
+}
