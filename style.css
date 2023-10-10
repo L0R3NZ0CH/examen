@@ -7,17 +7,19 @@ nav a {
     display: flex;
     text-align: center;
 }
-.container  {
-    height: 100px;
-    width: 100px;
+.contenido  {
+    height: 80%;
+    width: 80%;
+    text-align: justify;
     background-color: blue;
 }
-.container p {
+.contenido p {
     font-weight: bold;
+    display: flex;
 }
 footer {
     background-color: black;
 }
 footer h2 {
-    text-decoration-colors: white;
+    color: white;
 }
